@@ -1,6 +1,6 @@
 # Pequeños proyectos con Python
 
-_En esta oportunidad hemos realizado una sección en la cual subiremos projectos pequeños para principiantes en el lenguaje_
+_En esta oportunidad hemos realizado una sección en la cual subiremos proyectos pequeños para principiantes en el lenguaje_
 
 ## Comenzando 🚀
 
@@ -14,7 +14,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Antes de poder ejecutar este poryecto necesitas instalar las dependecias de cada proyecto_ [Pypi.org](https://pypi.org/)
 
 ```
-pip install python-opencv
+pip install {nombre dependencia}
 ```
 
 ### Ejecución 🔧
